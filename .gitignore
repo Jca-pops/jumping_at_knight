@@ -1,0 +1,23 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+.import/
+
+# Exported builds
+build/
+exports/
+
+# Temporary files
+*.bak
+*.tmp
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Translation files (if you prefer to regenerate them)
+*.translation
+
+# Optional: Export presets (if not needed for CI/shared setup)
+export_presets.cfg

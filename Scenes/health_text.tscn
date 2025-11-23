@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://m1k0nxo8ox3w"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_iuxgc"]
+
+[node name="HealthText" type="Label"]
+modulate = Color(0, 0, 18.892157, 1)
+light_mask = 0
+offset_right = 98.0
+offset_bottom = 23.0
+text = "sgfsgx"
+label_settings = SubResource("LabelSettings_iuxgc")
+horizontal_alignment = 1
+vertical_alignment = 1
